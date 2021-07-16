@@ -1,0 +1,24 @@
+body{
+    /* background-image: url('../component/login.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+
+    
+background: rgb(5,183,219);
+background: linear-gradient(90deg, rgba(5,183,219,1) 0%, rgba(6,39,235,1) 48%, rgba(6,17,182,1) 60%, rgba(2,89,103,1) 100%);
+}
+.card{
+  position: relative;
+  top: 100px;
+}
+
+.a label{
+    color: white;
+}
+.b label{
+    color:white;
+}
+.c label{
+    color: white;
+}
+
